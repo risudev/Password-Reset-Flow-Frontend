@@ -19,9 +19,13 @@ This project demonstrates authentication flow best practices for modern frontend
 🧪 Test the Flow
 
 ✅ Register with a new user
+
 ✅ Log in with the same credentials
+
 ✅ Click "Forgot Password" ➝ receive email
+
 ✅ Open reset link and set a new password
+
 ✅ Log in again with the updated password
 
 ## DEMO Link
