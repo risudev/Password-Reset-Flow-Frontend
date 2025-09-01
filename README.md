@@ -1,12 +1,31 @@
-# React + Vite
+# 🔐 Password Reset Flow - Frontend
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A complete password reset flow built with **ReactJS**, **Bootstrap**, and **React Router DOM**, allowing users to register, log in, request a password reset via email, and securely reset their password using a tokenized link. 
 
-Currently, two official plugins are available:
+This project demonstrates authentication flow best practices for modern frontend applications.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+---
 
-## Expanding the ESLint configuration
+## 🚀 Features
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+✅ User Registration  
+✅ Secure Login with JWT  
+✅ Forgot Password Page  
+✅ Reset Password via Email Link  
+✅ Responsive UI using Bootstrap  
+✅ Toast Notifications using React-Toastify  
+✅ Proper Routing using React Router DOM  
+
+🧪 Test the Flow
+
+✅ Register with a new user
+✅ Log in with the same credentials
+✅ Click "Forgot Password" ➝ receive email
+✅ Open reset link and set a new password
+✅ Log in again with the updated password
+
+## DEMO Link
+https://regloginpage.netlify.app/
+
+## Authors
+Riswan N
